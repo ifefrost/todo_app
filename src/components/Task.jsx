@@ -1,4 +1,5 @@
 // import React from "react";
+/* eslint-disable react/prop-types */
 import { useDraggable } from "@dnd-kit/core";
 
 const Task = ({ task }) => {
